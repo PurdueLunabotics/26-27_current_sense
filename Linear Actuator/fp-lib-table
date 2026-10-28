@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "linear_actuator_footprints") (type "KiCad") (uri "${KIPRJMOD}/linear_actuator_footprints.pretty") (options "") (descr ""))
+)
