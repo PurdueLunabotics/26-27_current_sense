@@ -1504,10 +1504,6 @@
 		(uuid "23b13529-7a13-44cf-9192-d8c0997f330a")
 	)
 	(no_connect
-		(at 124.46 40.64)
-		(uuid "3d1d197a-2ab8-42f6-bdb4-cac79ff0407a")
-	)
-	(no_connect
 		(at 74.93 55.88)
 		(uuid "5606ad71-71c7-4850-908e-32c8d9fefcc2")
 	)
@@ -2578,7 +2574,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm"
 			(at 127 38.4048 0)
 			(hide yes)
 			(show_name no)
@@ -2892,7 +2888,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm"
 			(at 137.16 43.4848 0)
 			(hide yes)
 			(show_name no)
@@ -3050,7 +3046,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm"
 			(at 121.92 47.2948 0)
 			(hide yes)
 			(show_name no)
@@ -3774,7 +3770,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm"
 			(at 127 28.2448 0)
 			(hide yes)
 			(show_name no)
@@ -3932,7 +3928,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm"
 			(at 69.85 42.2148 0)
 			(hide yes)
 			(show_name no)
