@@ -2219,7 +2219,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "001a14d7-5ce3-47bb-870d-61d6e98c64e3")
-		(property "Reference" "#PWR07"
+		(property "Reference" "#PWR7"
 			(at 128.27 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -2240,7 +2240,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NAU7802KGI:DIP792W45P254L1904H533Q16"
+		(property "Footprint" ""
 			(at 128.27 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -2279,7 +2279,7 @@
 		(instances
 			(project "current_sense_2026"
 				(path "/36598e4c-76b2-4a5e-9408-b8c253e2f1ff"
-					(reference "#PWR07")
+					(reference "#PWR7")
 					(unit 1)
 				)
 			)
@@ -2403,7 +2403,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NAU7802KGI:DIP792W45P254L1904H533Q16"
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm_LongPads"
 			(at 92.71 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -2634,7 +2634,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "26028084-77d8-47de-b46c-5e5e77eb3a18")
-		(property "Reference" "#PWR012"
+		(property "Reference" "#PWR12"
 			(at 114.3 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -2655,7 +2655,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NAU7802KGI:DIP792W45P254L1904H533Q16"
+		(property "Footprint" ""
 			(at 114.3 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -2694,7 +2694,7 @@
 		(instances
 			(project "current_sense_2026"
 				(path "/36598e4c-76b2-4a5e-9408-b8c253e2f1ff"
-					(reference "#PWR012")
+					(reference "#PWR12")
 					(unit 1)
 				)
 			)
@@ -2712,7 +2712,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "27155155-fc75-42d2-98a5-50627782012d")
-		(property "Reference" "#PWR013"
+		(property "Reference" "#PWR13"
 			(at 132.08 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -2733,7 +2733,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NAU7802KGI:DIP792W45P254L1904H533Q16"
+		(property "Footprint" ""
 			(at 132.08 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -2772,7 +2772,7 @@
 		(instances
 			(project "current_sense_2026"
 				(path "/36598e4c-76b2-4a5e-9408-b8c253e2f1ff"
-					(reference "#PWR013")
+					(reference "#PWR13")
 					(unit 1)
 				)
 			)
@@ -2790,7 +2790,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "27e17d01-d7f3-443c-99fb-7eb5e6299696")
-		(property "Reference" "#PWR010"
+		(property "Reference" "#PWR10"
 			(at 69.85 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -2811,7 +2811,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NAU7802KGI:DIP792W45P254L1904H533Q16"
+		(property "Footprint" ""
 			(at 69.85 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -2850,7 +2850,7 @@
 		(instances
 			(project "current_sense_2026"
 				(path "/36598e4c-76b2-4a5e-9408-b8c253e2f1ff"
-					(reference "#PWR010")
+					(reference "#PWR10")
 					(unit 1)
 				)
 			)
@@ -2948,7 +2948,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3da21811-0568-48a7-8cf2-ec3554738701")
-		(property "Reference" "#PWR04"
+		(property "Reference" "#PWR4"
 			(at 67.31 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -2969,7 +2969,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NAU7802KGI:DIP792W45P254L1904H533Q16"
+		(property "Footprint" ""
 			(at 67.31 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -3008,7 +3008,7 @@
 		(instances
 			(project "current_sense_2026"
 				(path "/36598e4c-76b2-4a5e-9408-b8c253e2f1ff"
-					(reference "#PWR04")
+					(reference "#PWR4")
 					(unit 1)
 				)
 			)
@@ -3106,7 +3106,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "50b2952a-29d3-4966-95ec-cfe29bacfa0d")
-		(property "Reference" "#PWR014"
+		(property "Reference" "#PWR14"
 			(at 185.42 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -3127,7 +3127,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NAU7802KGI:DIP792W45P254L1904H533Q16"
+		(property "Footprint" ""
 			(at 185.42 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -3166,7 +3166,7 @@
 		(instances
 			(project "current_sense_2026"
 				(path "/36598e4c-76b2-4a5e-9408-b8c253e2f1ff"
-					(reference "#PWR014")
+					(reference "#PWR14")
 					(unit 1)
 				)
 			)
@@ -3184,7 +3184,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "69b5f37f-36cf-4a43-970e-7013c6aec0e1")
-		(property "Reference" "#PWR05"
+		(property "Reference" "#PWR5"
 			(at 132.08 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -3205,7 +3205,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NAU7802KGI:DIP792W45P254L1904H533Q16"
+		(property "Footprint" ""
 			(at 132.08 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -3244,7 +3244,7 @@
 		(instances
 			(project "current_sense_2026"
 				(path "/36598e4c-76b2-4a5e-9408-b8c253e2f1ff"
-					(reference "#PWR05")
+					(reference "#PWR5")
 					(unit 1)
 				)
 			)
@@ -3363,7 +3363,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7be18857-175f-4a26-bc9e-0af11f5c5580")
-		(property "Reference" "#PWR06"
+		(property "Reference" "#PWR6"
 			(at 147.32 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -3384,7 +3384,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NAU7802KGI:DIP792W45P254L1904H533Q16"
+		(property "Footprint" ""
 			(at 147.32 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -3423,7 +3423,7 @@
 		(instances
 			(project "current_sense_2026"
 				(path "/36598e4c-76b2-4a5e-9408-b8c253e2f1ff"
-					(reference "#PWR06")
+					(reference "#PWR6")
 					(unit 1)
 				)
 			)
@@ -3830,7 +3830,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d1f4554b-3035-4025-9f8c-fbafe59f6203")
-		(property "Reference" "#PWR08"
+		(property "Reference" "#PWR8"
 			(at 60.96 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -3851,7 +3851,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NAU7802KGI:DIP792W45P254L1904H533Q16"
+		(property "Footprint" ""
 			(at 60.96 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -3890,7 +3890,7 @@
 		(instances
 			(project "current_sense_2026"
 				(path "/36598e4c-76b2-4a5e-9408-b8c253e2f1ff"
-					(reference "#PWR08")
+					(reference "#PWR8")
 					(unit 1)
 				)
 			)
@@ -3988,7 +3988,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ea61f45a-7bb0-44f4-bfd1-7dfef11421fe")
-		(property "Reference" "#PWR011"
+		(property "Reference" "#PWR11"
 			(at 118.11 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -4009,7 +4009,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NAU7802KGI:DIP792W45P254L1904H533Q16"
+		(property "Footprint" ""
 			(at 118.11 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -4048,7 +4048,7 @@
 		(instances
 			(project "current_sense_2026"
 				(path "/36598e4c-76b2-4a5e-9408-b8c253e2f1ff"
-					(reference "#PWR011")
+					(reference "#PWR11")
 					(unit 1)
 				)
 			)
@@ -4298,7 +4298,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fac6025a-8d4e-478c-9f7b-32ac6e6297ef")
-		(property "Reference" "#PWR01"
+		(property "Reference" "#PWR1"
 			(at 36.83 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -4319,7 +4319,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NAU7802KGI:DIP792W45P254L1904H533Q16"
+		(property "Footprint" ""
 			(at 36.83 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -4358,7 +4358,7 @@
 		(instances
 			(project "current_sense_2026"
 				(path "/36598e4c-76b2-4a5e-9408-b8c253e2f1ff"
-					(reference "#PWR01")
+					(reference "#PWR1")
 					(unit 1)
 				)
 			)
