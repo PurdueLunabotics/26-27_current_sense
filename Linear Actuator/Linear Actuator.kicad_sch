@@ -2042,12 +2042,6 @@
 		(uuid "2f808347-62b4-4715-9c70-8f50255783d8")
 	)
 	(junction
-		(at 139.7 69.85)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "52ab7e39-6c98-4235-ac0e-fda5e7836b41")
-	)
-	(junction
 		(at 140.97 83.82)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2293,7 +2287,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 69.85) (xy 149.86 69.85)
+			(xy 120.65 69.85) (xy 149.86 69.85)
 		)
 		(stroke
 			(width 0)
@@ -2390,16 +2384,6 @@
 			(type default)
 		)
 		(uuid "46946794-29bd-4a8a-9969-33362d719169")
-	)
-	(wire
-		(pts
-			(xy 120.65 69.85) (xy 139.7 69.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4726ab23-9512-4c8c-a0bd-7badab74bcd4")
 	)
 	(wire
 		(pts
@@ -2520,16 +2504,6 @@
 			(type default)
 		)
 		(uuid "6bed0d56-65dc-431d-9f70-a27327f6143f")
-	)
-	(wire
-		(pts
-			(xy 139.7 67.31) (xy 139.7 69.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6c89cf75-5b4d-4d91-8c76-1afe583be8b4")
 	)
 	(wire
 		(pts
@@ -3579,85 +3553,6 @@
 			(project "Linear Actuator"
 				(path "/7654cd96-f0b3-4936-a874-c4ffab9bd971"
 					(reference "U4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:PWR_FLAG")
-		(at 139.7 67.31 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "301d0223-5bba-4274-8cc3-a4a350502b4d")
-		(property "Reference" "#FLG03"
-			(at 137.795 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "PWR_FLAG"
-			(at 135.89 67.3099 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Package_SO:TSSOP-28_4.4x9.7mm_P0.65mm"
-			(at 139.7 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 139.7 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 139.7 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "c30c1a7f-d73e-4e8d-ab2d-12af6130a449")
-		)
-		(instances
-			(project "Linear Actuator"
-				(path "/7654cd96-f0b3-4936-a874-c4ffab9bd971"
-					(reference "#FLG03")
 					(unit 1)
 				)
 			)
