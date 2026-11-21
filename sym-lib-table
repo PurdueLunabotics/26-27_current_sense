@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "2026-2027_Battery_Symbols") (type "KiCad") (uri "${KIPRJMOD}/symbols/2026-2027_Battery_Symbols.kicad_sym") (options "") (descr ""))
+)
